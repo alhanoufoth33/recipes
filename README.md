@@ -24,7 +24,7 @@ the project to GitHub.
 
 ## Installation instructions
 I Deployed my  recipes app online, where that can anyone  access to search about recipes .
-- **[The  Recipes ](https://ameerahalshihry.github.io/project_2/)**
+- **[The  Recipes ](https://alhanoufoth33.github.io/recipes/)**
 
 ## Future plans
 
