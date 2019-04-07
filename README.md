@@ -17,9 +17,9 @@ This app will allow the user to search about  recipes and show the details about
 - GitHub for deploy
 
 ## The approach taken
-First, I did simple html page and I did simple design CSS for main page then I wrote code with React and java script and I used the google Book API to get the data and also use Open Library API,
-then I worked CSS files to complete the interface for these pages, after that I did the steps to deploy my app then i pushed
-the project to GitHub.
+First, I did simple html page and I did simple design CSS for main page then I wrote code with React and java script and I used the food 2 fork API to get the data!,
+after that, I worked CSS files to complete the interface for these pages.
+
 
 
 ## Installation instructions
